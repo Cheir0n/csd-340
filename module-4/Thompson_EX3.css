@@ -15,7 +15,7 @@ h1
 #learned
 {
     width: 45%;
-    font-family: Oswald, Verdana, Arial, sans-serif;
+    font-family: 'Oswald', Verdana, Arial, sans-serif;
     float: right;
     border: 1px dashed red;
     border-radius: 15px;
@@ -38,7 +38,7 @@ li
 }
 a
 {
-    font-family: Oswald, Verdana, Arial, sans-serif;
+    font-family: 'Oswald', Verdana, Arial, sans-serif;
     text-decoration: none;
 }
 a:hover
